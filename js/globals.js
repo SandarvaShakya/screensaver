@@ -1,3 +1,3 @@
-let particles = []
-let numberOfParticles = 10
-let typeOfParticle = 'box'
+let particles = [];
+let numberOfParticles = 2;
+let typeOfParticle = "box";
